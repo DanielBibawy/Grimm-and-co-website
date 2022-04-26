@@ -362,7 +362,11 @@ header ul li a img {
 }
 
 .wtn-shop-link {
+  padding: 1%;
   background-color: #d42b29;
+  color: white;
+  text-decoration: none;
+
 }
 
 .wtn-writers-pad-img {
